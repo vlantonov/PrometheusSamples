@@ -6,3 +6,4 @@ Prometheus Monitoring samples
 * <https://github.com/grafana/docker-otel-lgtm>
 * <https://hub.docker.com/r/grafana/otel-lgtm>
 * [Monitoring Kafka in Kubernetes with Prometheus and Grafana](https://vkontech.com/monitoring-kafka-in-kubernetes-with-prometheus-and-grafana/)
+* [Мониторинг Strimzi Kafka через kube-prometheus-stack](https://habr.com/ru/articles/992494/)
